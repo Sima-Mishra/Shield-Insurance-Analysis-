@@ -71,4 +71,6 @@ The dataset provided by Codebasics is from Insurance companies, in which we have
 
 ## 📎 Links
 [💼 Linkedin Post](https://www.linkedin.com/in/sima-mishra-916743282/)
-🖥️ Presentation
+[🖥️ Presentation](https://youtu.be/JrKWRRI0EhY)
+
+
