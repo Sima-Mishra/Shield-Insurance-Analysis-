@@ -4,7 +4,7 @@
 ## 🎬 Project Overview
 SHIELD Insurance Company, a well-known supplier of comprehensive insurance, is wholly committed to protecting people from unforeseen events. They stand out among other players in the market because of their focus on assuring coverage reliability.
 
-LIVE Dashboard- https://app.powerbi.com/view?r=eyJrIjoiMDRmODUwOWQtMDgxOC00YWJiLTk3MjItNTAwYTdjY2ZmYWFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+[LIVE Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMDRmODUwOWQtMDgxOC00YWJiLTk3MjItNTAwYTdjY2ZmYWFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 🎯 Objective
 The objective of this pilot project is to conduct a thorough examination of customer growth and revenue patterns at Shield Insurance Company. The project's primary emphasis lies in extracting significant observations regarding customer behavior, revenue generation, geographical distribution, and age group-based statistics. By analyzing these metrics, the project offers valuable insights to comprehend the company's performance and facilitate informed decision-making based on data
@@ -70,5 +70,5 @@ The dataset provided by Codebasics is from Insurance companies, in which we have
 ✅ Microsoft (ppt)
 
 ## 📎 Links
-💼 Linkedin Post - https://www.linkedin.com/in/sima-mishra-916743282/
-🖥️ Presentation  - 
+[💼 Linkedin Post](https://www.linkedin.com/in/sima-mishra-916743282/)
+🖥️ Presentation
