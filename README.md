@@ -70,6 +70,5 @@ The dataset provided by Codebasics is from Insurance companies, in which we have
 ✅ Microsoft (ppt)
 
 ## 📎 Links
-💼 Linkedin Post
-📊 Live Dashboard
-🖥️ Presentation
+💼 Linkedin Post - https://www.linkedin.com/in/sima-mishra-916743282/
+🖥️ Presentation  - 
